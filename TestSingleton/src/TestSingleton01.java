@@ -12,7 +12,7 @@
  * 2.提供一个静态方法返回此类实例，从而供外界使用 
  *
  */
-//测试多线程访问单例 test
+//测试多线程访问单例
 public class TestSingleton01 {
 	public static void main(String[] args) {
 		for(int i=0;i<5;i++){
